@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    margin: 1em;
+}
+
+#panda-image{
+    width: 100%;
+    border-radius: 1em;
+}
+
+.container{
+    padding: 1em;
+    background-color: aliceblue;
+    margin: auto;
+    width: 50%;
+    border-radius: 1em;
+}
+
+p{
+    padding: 1em;
+    font-size: 1.5rem;
+    line-height: 1.5em;
+}
